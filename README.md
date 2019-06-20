@@ -1,4 +1,4 @@
-# neuroglancer-first-task
+# Neuroglancer-first-task
 
 There are three brains named "MD585", "MD589", and "MD594".
 
